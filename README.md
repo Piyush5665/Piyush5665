@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🤝 I’m looking for help with React.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about DS & Algos.<br>
+🔭 I’m currently exploring Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🤝 I’m looking for help with React.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about DS & Algos.<br>
 
 
 ## 🌐 Socials:
