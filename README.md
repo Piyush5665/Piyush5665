@@ -4,8 +4,10 @@
 </p>
 
 <div align="center">
-<img src="https://i.imgur.com/JHtPCJq.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/JHtPCJq.gif" align="center" style="width: 100%; height:60%;" />
 </div> 
+
+<br>
 
 # 💫 About Me:
 ### 🔭    I’m currently exploring Web Development.<br>👯  I’m looking to collaborate on Frontend Projects.<br>🤝  I’m looking for help with React.<br>🌱  I’m currently learning Javascript.<br>💬  Ask me about DS & Algos.<br><br><br>
