@@ -40,7 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5665&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br><br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br><br>
 
 <p align="left"> 
