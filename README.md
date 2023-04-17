@@ -1,4 +1,4 @@
-<h3 align="center">Hi👋, I'm Piyush</h1>
+<h3 align="center">Hi👋,  I'm Piyush.</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Improvise.+Adapt.+Overcome.;You%20still%20here?%20&center=true&width=500&height=50"></a>
 </p>
