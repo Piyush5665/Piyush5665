@@ -38,8 +38,8 @@
 
 # 📊 GitHub Stats:<br>
 ![](https://github-readme-stats.vercel.app/api?username=piyush5665&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
- <a href="https://github.com/piyush5665/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cleverhare&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ <a href="https://github.com/Piyush5665/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush5665&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a><br>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=piyush5665&theme=dark&hide_border=false)<br/><br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5665&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br><br>
