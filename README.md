@@ -10,7 +10,7 @@
 <br>
 
 # 💫 About Me:
-### 🔭    I’m currently exploring Web Development.<br>👯  I’m looking to collaborate on Frontend Projects.<br>🤝  I’m looking for help with React.<br>🌱  I’m currently learning Javascript.<br>💬  Ask me about DS & Algos.<br><br><br>
+### 🔭    I’m currently exploring Web Development.<br>👯  I’m looking to collaborate on Frontend Projects.<br>🤝  I’m looking for help with React.<br>🌱  I’m currently learning Javascript.<br>💬  Ask me about DS & Algos.<br>📫 Reach me at piyush14sharma2004@gmail.com<br><br><br>
 
 
 
