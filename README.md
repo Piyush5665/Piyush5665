@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Improvise.+Adapt.+Overcome.;You%20still%20here?%20&center=true&width=500&height=50"></a>
 </p>
 
-<div align="center">
+<!--<div align="center">
 <img src="https://i.imgur.com/JHtPCJq.gif" align="center" style="width: 100%; height:60%;" />
-</div> 
+</div>-->
 
 <br>
 
