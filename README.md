@@ -25,7 +25,7 @@
 
 # 🌐 Socials:
 
-<a href="https://twitter.com/piyush_sharma04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush_sharma04" height="30" width="40" /></a>
+<a href="https://twitter.com/elonmusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush_sharma04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyush-sharma-2107ab232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-sharma-2107ab232/" height="30" width="40" /></a>
 
 <!-- <p align="left">
